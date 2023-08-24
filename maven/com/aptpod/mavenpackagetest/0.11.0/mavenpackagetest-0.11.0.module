@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "jp.co.aptpod",
+    "group": "com.aptpod",
     "module": "mavenpackagetest",
     "version": "0.11.0",
     "attributes": {
@@ -34,11 +34,11 @@
         {
           "name": "mavenpackagetest-0.11.0.aar",
           "url": "mavenpackagetest-0.11.0.aar",
-          "size": 3054,
-          "sha512": "e1377df5b77d498ebf3bb0b20e68bfa9b3017a33a46b4e73cdbd1279ec1a69e13392ecdba0e92188afe95a057026be0e542e3a7e62209c4bfbb1d0657809ee4d",
-          "sha256": "5aa50583d22a6b9151dc3c4f559087e8463e15cafd7ea98a547ea36b178fa064",
-          "sha1": "6478651d4b25c472cde91af329ef21bdc7a5f927",
-          "md5": "3b0bb336ffd887500ab1da342dca7bcd"
+          "size": 3027,
+          "sha512": "f21bd9aab30f8869c45f24e279b61925bfc902981d161956ec6f46781f65ee5fa37ffe2168752f9e0052f4ae9959986649f26ea735ad43080b2dd3412f0888ba",
+          "sha256": "77d735eb92ff63ebab9e0269e4548bf09c5f5ee71ce02883f9b17183ded4a765",
+          "sha1": "a79690fc58fdead022f032850256ad2d59a4571d",
+          "md5": "238b24b72f285fc8775a0d4c70be8151"
         }
       ]
     },
@@ -104,11 +104,11 @@
         {
           "name": "mavenpackagetest-0.11.0.aar",
           "url": "mavenpackagetest-0.11.0.aar",
-          "size": 3054,
-          "sha512": "e1377df5b77d498ebf3bb0b20e68bfa9b3017a33a46b4e73cdbd1279ec1a69e13392ecdba0e92188afe95a057026be0e542e3a7e62209c4bfbb1d0657809ee4d",
-          "sha256": "5aa50583d22a6b9151dc3c4f559087e8463e15cafd7ea98a547ea36b178fa064",
-          "sha1": "6478651d4b25c472cde91af329ef21bdc7a5f927",
-          "md5": "3b0bb336ffd887500ab1da342dca7bcd"
+          "size": 3027,
+          "sha512": "f21bd9aab30f8869c45f24e279b61925bfc902981d161956ec6f46781f65ee5fa37ffe2168752f9e0052f4ae9959986649f26ea735ad43080b2dd3412f0888ba",
+          "sha256": "77d735eb92ff63ebab9e0269e4548bf09c5f5ee71ce02883f9b17183ded4a765",
+          "sha1": "a79690fc58fdead022f032850256ad2d59a4571d",
+          "md5": "238b24b72f285fc8775a0d4c70be8151"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "mavenpackagetest-0.11.0-sources.jar",
           "url": "mavenpackagetest-0.11.0-sources.jar",
-          "size": 1419,
-          "sha512": "0387e09aeb87b14b3ecd0c0f8789126470f302df77b7c9e754af5b9b2ae375f359332f609b6b7ef023cb0d3a838821403929b2a9d1a81b86ba45e10bf7c1123a",
-          "sha256": "08c5695aa4b29130347bf4538147f956051b8e78d99790cc4fe333c993cc8680",
-          "sha1": "caf0e58788b2a8fc5e316e872d3892da05810bf3",
-          "md5": "e10831685b94a83cfe6de9c00e78e2ab"
+          "size": 1301,
+          "sha512": "af5b1edd6032c5ac19d58255f39a9fda7239b3e98d9e8654244d80d76fefdde91eefa51d2136c14e4e8205d8daeaf9496cd86f12b87f20f1c4a1c11578e8ac03",
+          "sha256": "f664b5fec9bd67781ea3092912dbbb72b6dc2278b92f8b6c740c3dab3aaa8255",
+          "sha1": "476446c768015bd69cead9d8f41d70bab2d9a691",
+          "md5": "0bf7bcf59c203548eb03acabbb0bf974"
         }
       ]
     }

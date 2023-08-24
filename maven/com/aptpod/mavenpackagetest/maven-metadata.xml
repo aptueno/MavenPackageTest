@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>jp.co.aptpod</groupId>
+  <groupId>com.aptpod</groupId>
   <artifactId>mavenpackagetest</artifactId>
   <versioning>
     <latest>0.11.0</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>0.11.0</version>
     </versions>
-    <lastUpdated>20230824023145</lastUpdated>
+    <lastUpdated>20230824095414</lastUpdated>
   </versioning>
 </metadata>
