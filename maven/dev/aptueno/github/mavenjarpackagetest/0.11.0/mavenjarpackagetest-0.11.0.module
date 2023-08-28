@@ -38,11 +38,11 @@
         {
           "name": "mavenjarpackagetest-0.11.0.jar",
           "url": "mavenjarpackagetest-0.11.0.jar",
-          "size": 2985,
-          "sha512": "264f7eb56d9cd94b4a3de196f52650ab32cc0dedefd9db1baac9fce4687d877f01051c653fef6ad69f56b013bdbefc8ab32708cdac090217af689162192bbede",
-          "sha256": "6647a5ff2c24d30c9be889a52f0840d9cdc7704f73286952d8a6977416d49b90",
-          "sha1": "dcb9b3661a0312779bf1c38c7071614fcab890e7",
-          "md5": "7780832014a1470b16ba624fba5fd3a6"
+          "size": 3319,
+          "sha512": "6c713c35d1362192062da0c933c12c534a92aa010506b60979bf6d09841afc7178faa81e0ce159bac3a3a8cd594bacf6f23f22ac3c7f351d4b8022a6eea14217",
+          "sha256": "d35a81a997fe41b5ab481dceb95e051ce274e68ee57f8442d13c715714307cb0",
+          "sha1": "dc02ffcd344a72576aaff2426e3655c526558b44",
+          "md5": "064046be3023e31336a21d2fa527b7d6"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "mavenjarpackagetest-0.11.0.jar",
           "url": "mavenjarpackagetest-0.11.0.jar",
-          "size": 2985,
-          "sha512": "264f7eb56d9cd94b4a3de196f52650ab32cc0dedefd9db1baac9fce4687d877f01051c653fef6ad69f56b013bdbefc8ab32708cdac090217af689162192bbede",
-          "sha256": "6647a5ff2c24d30c9be889a52f0840d9cdc7704f73286952d8a6977416d49b90",
-          "sha1": "dcb9b3661a0312779bf1c38c7071614fcab890e7",
-          "md5": "7780832014a1470b16ba624fba5fd3a6"
+          "size": 3319,
+          "sha512": "6c713c35d1362192062da0c933c12c534a92aa010506b60979bf6d09841afc7178faa81e0ce159bac3a3a8cd594bacf6f23f22ac3c7f351d4b8022a6eea14217",
+          "sha256": "d35a81a997fe41b5ab481dceb95e051ce274e68ee57f8442d13c715714307cb0",
+          "sha1": "dc02ffcd344a72576aaff2426e3655c526558b44",
+          "md5": "064046be3023e31336a21d2fa527b7d6"
         }
       ]
     },
@@ -131,11 +131,11 @@
         {
           "name": "mavenjarpackagetest-0.11.0-sources.jar",
           "url": "mavenjarpackagetest-0.11.0-sources.jar",
-          "size": 951,
-          "sha512": "7fa8c55c37c34795de6103da997eddedbaf25b66face2dede469860c4b0fde547f51fff61a9e7ebc759355151072d86cf49ffdc884b5d8ffff727160354844ad",
-          "sha256": "22490939feea4e9ec82f4abc1d0c67917f3ebd577cc12c7783c6435974790672",
-          "sha1": "b228b7bb1b10e5cdfae4b67d366e71f4d7669ea2",
-          "md5": "ea5378d45bd45d27fc2c69dbc25db0ad"
+          "size": 957,
+          "sha512": "10349dee36de5a8312814b3c85954b9084acbfacbc4ee648c270d6a35a2f608d44ea13dfd84fd9a9cc674141834553fb3ef7fc01153e4a34d6b7fa9b2e3d2547",
+          "sha256": "6dcfbe6e09504c1d3d92fbcf3bb6d03233ea6b40d0237af7361e6d243a84d7b1",
+          "sha1": "c652e8c252fba31da2334dc11baf70a807cbc43a",
+          "md5": "08e7f5e0842796315fea465bd1add538"
         }
       ]
     }
