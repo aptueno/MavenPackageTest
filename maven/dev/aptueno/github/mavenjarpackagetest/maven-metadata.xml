@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>dev.aptueno.github</groupId>
-  <artifactId>mavenpackagetest</artifactId>
+  <artifactId>mavenjarpackagetest</artifactId>
   <versioning>
     <latest>0.11.0</latest>
     <release>0.11.0</release>

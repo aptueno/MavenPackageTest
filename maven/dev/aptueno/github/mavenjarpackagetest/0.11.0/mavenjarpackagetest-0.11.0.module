@@ -1,0 +1,143 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.aptueno.github",
+    "module": "mavenjarpackagetest",
+    "version": "0.11.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mavenjarpackagetest-0.11.0.jar",
+          "url": "mavenjarpackagetest-0.11.0.jar",
+          "size": 2670,
+          "sha512": "023546a43eca54d02ccd14ffb97601833d2faac797769670be5c8879d96e6c184bd1e34bca3ee1ccaeac7737d223dc8d771fd3964863e88d69079e0e97679fde",
+          "sha256": "16ba144ca8170ef087046299b1cf9c202f409243a5bf613aa28d294a010cd297",
+          "sha1": "e5158e484fbdf8ae14ae19cdb7e66371f2f801f6",
+          "md5": "e8a9fc25134fca2135b69ad7629ae88c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.protobuf",
+          "module": "protobuf-java",
+          "version": {
+            "requires": "3.23.3"
+          }
+        },
+        {
+          "group": "com.google.protobuf",
+          "module": "protobuf-java-util",
+          "version": {
+            "requires": "3.23.3"
+          }
+        },
+        {
+          "group": "org.java-websocket",
+          "module": "Java-WebSocket",
+          "version": {
+            "requires": "1.5.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mavenjarpackagetest-0.11.0.jar",
+          "url": "mavenjarpackagetest-0.11.0.jar",
+          "size": 2670,
+          "sha512": "023546a43eca54d02ccd14ffb97601833d2faac797769670be5c8879d96e6c184bd1e34bca3ee1ccaeac7737d223dc8d771fd3964863e88d69079e0e97679fde",
+          "sha256": "16ba144ca8170ef087046299b1cf9c202f409243a5bf613aa28d294a010cd297",
+          "sha1": "e5158e484fbdf8ae14ae19cdb7e66371f2f801f6",
+          "md5": "e8a9fc25134fca2135b69ad7629ae88c"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mavenjarpackagetest-0.11.0-javadoc.jar",
+          "url": "mavenjarpackagetest-0.11.0-javadoc.jar",
+          "size": 261,
+          "sha512": "0577e7872878ecbc0474078a39a2ed3f5846f64c3ae3b7940006483a46a97db76af24cc28680a11fb01983308156544366f31e94884e2987f3091af9058002d8",
+          "sha256": "7003f13ba61b90a4c5679909d4e95395e84dce6c80bc7976f7170fbcc2995aa5",
+          "sha1": "8a5d69cc17fed960cba2c901c0548b50cf1754b6",
+          "md5": "e3fc75deb140409bb7deadc2536d810a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mavenjarpackagetest-0.11.0-sources.jar",
+          "url": "mavenjarpackagetest-0.11.0-sources.jar",
+          "size": 1056,
+          "sha512": "a6430c5bf176146c63fa07d07f5c7c6f3a10b746b48ae41c33da60a2ef08760e8362961985a8a8da9e9eb554d47cf141a22050670e6df9e8d671b268511f2a63",
+          "sha256": "ab62453c8e330f58d657d6575777c71704adbd61bc09331248bc08ab54328b23",
+          "sha1": "7a273bb2d2fee98b27bf4f958b69274e8e79aa27",
+          "md5": "2f755ae6474c1ad661d6e98b888878a0"
+        }
+      ]
+    }
+  ]
+}
